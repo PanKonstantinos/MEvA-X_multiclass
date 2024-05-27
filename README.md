@@ -59,6 +59,6 @@ Modified version for multiclass problems
   <tr>
     <td>imbalance-sklearn</td>
     <td>0.1</td>
-    <td>imbalanced-learn</td>
+    <td>https://imbalanced-learn.org/stable/index.html</td>
   </tr>
 </table>
